@@ -1,0 +1,8 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/96477836" target="_blank">
+        19/20(points)
+#include &amp;lt;bits/stdc++.h&amp;gt;
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+	int num,a1=0,a2=0,a3=0,a5=0,cnt=0,a4f=...      </a>

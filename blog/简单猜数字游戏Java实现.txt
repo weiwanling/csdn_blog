@@ -1,0 +1,4 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90141835" target="_blank">
+        问题
+
+编写一个Java应用程序，要求有三个进程：student1，student2，teacher，其中线程student1准备“睡”1分钟后再开始上课，线程student2准备“睡”5分钟后再开始上课。Teacher在输出4句“上课”后，“唤醒”了休眠的线程student1；线程student...      </a>

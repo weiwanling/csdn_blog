@@ -1,0 +1,9 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/95460072" target="_blank">
+        MySQL视图百科
+ --创建视图
+CREATE VIEW info_view(id,name,sex,age,address)  
+AS SELECT id,name,sex,age,address
+FROM Work_info;
+
+ --查询满足条件的数据
+SELECT id,name,sex...      </a>

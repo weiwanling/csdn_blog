@@ -1,0 +1,8 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/95461879" target="_blank">
+        SELECT d_id,d_name FROM bumen WHERE
+d_name='人事部' OR d_name='科研部';
+
+SELECT * FROM yuangong WHERE
+d_id=141001 OR d_id=141002;
+
+ALTER TABLE yuangong ADD...      </a>

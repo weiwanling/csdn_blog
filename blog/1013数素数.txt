@@ -1,0 +1,10 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/96478134" target="_blank">
+        20/20
+#include &amp;lt;bits/stdc++.h&amp;gt;
+#define N 10000
+using namespace std;
+int a[N+1]={0};
+int isPrime(int n)
+{
+    if(n == 3||n==2)
+        r...      </a>

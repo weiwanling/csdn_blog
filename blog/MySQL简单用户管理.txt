@@ -1,0 +1,7 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93783677" target="_blank">
+        -- 创建用户wei同时为其设置密码1234
+CREATE USER 'wei'@'localhost' identified BY '1234';
+
+# 查询所有用户
+SELECT USER FROM mysql.user;
+CREATE USER 'wei'@'localhost' ident...      </a>

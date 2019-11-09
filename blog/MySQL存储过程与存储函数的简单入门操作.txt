@@ -1,0 +1,5 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/89853221" target="_blank">
+        准备工作
+用两台虚拟机模拟6个节点，一台机器3个节点，创建出3 master、3 salve 环境。
+https://blog.csdn.net/yyTomson/article/details/85783753 redis 采用 redis-5.0.3 版本。
+两台虚...      </a>

@@ -1,0 +1,27 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90261149" target="_blank">
+        感知机算法原理
+
+感知机算法原理
+
+实例问题
+
+   原始问题
+
+
+
+
+
+
+
+     对偶问题
+
+
+
+
+
+原始问题及对偶问题的C++代码
+
+
+#include &amp;lt;iostream&amp;gt;
+using namespace std;
+#define N 3   //需分类点的个...      </a>

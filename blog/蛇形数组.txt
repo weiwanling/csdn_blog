@@ -1,0 +1,9 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93647298" target="_blank">
+        蛇形数组
+#include &amp;lt;stdio.h&amp;gt;
+#include&amp;lt;string.h&amp;gt;
+#define MAXN 20
+int a[MAXN][MAXN];
+int main(int argc, char *argv[])
+{
+	int tot...      </a>

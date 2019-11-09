@@ -1,0 +1,26 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90443140" target="_blank">
+        创建的图
+
+
+
+
+a friend of a friend
+
+
+
+
+ppt test0
+
+
+
+
+
+
+
+语句
+
+
+-- 清空
+match (n1)-[r1]-(n2) delete n1,n2,r1;
+--查
+match (n1)-[r1]-&amp;gt;(n2) RETURN  n1,r1,n2...      </a>

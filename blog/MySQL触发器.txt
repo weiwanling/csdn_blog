@@ -1,0 +1,8 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93596247" target="_blank">
+        MySQL触发器简介
+触发器百科
+语法
+DELIMITER ；
+CREATE TRIGGER &amp;lt;databaseName&amp;gt;.&amp;lt;triggerName&amp;gt;
+&amp;lt; [ BEFORE | AFTER ] &amp;gt;
+&amp;lt;...      </a>

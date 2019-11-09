@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/100877436" target="_blank">
+        hadoop wordcount
+ bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.0.jar grep /input output 'dfs[a-z.]+'
+
+hdfs dfs -ls
+hdfs dfs pu...      </a>

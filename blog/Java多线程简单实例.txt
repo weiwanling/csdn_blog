@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90142027" target="_blank">
+        Java异常处理
+
+异常是程序中的一些错误，但并不是所有的错误都是异常，并且错误有时候是可以避免的。
+
+比如说，你的代码少了一个分号，那么运行出来结果是提示是错误 java.lang.Error；如果你用System.out.println(11/0)，那么你是因为你用0做了除数，会抛出 java...      </a>

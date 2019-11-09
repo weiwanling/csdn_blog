@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/102642809" target="_blank">
+        开启hbase后执行hbase shell启动命令行交互
+list      	--列出所有表的相关信息
+scan 's2'   	--打印出指定表的所有记录数据
+CREATE  's1','score'  --创建表是s1添加列族score
+put 's1','wei','score:Math'...      </a>

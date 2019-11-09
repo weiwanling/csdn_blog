@@ -1,0 +1,7 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/101637093" target="_blank">
+        import random
+def redEnv(k,rest):
+    m=round(round(random.random()/10+0.01,2)*rest,2)
+    return m
+total=float(input('请输入红包金额：'))
+num=int(input('请输入...      </a>

@@ -1,0 +1,9 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/94045123" target="_blank">
+        import string
+import random
+from collections import defaultdict
+#x由数字,字母,其他符号组成
+x=string.ascii_letters+string.digits+string.punctuation
+print(x)
+
+#从x...      </a>

@@ -1,0 +1,13 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90404801" target="_blank">
+        帮助文档
+
+redisdoc.com
+
+六种数据类型简单操作
+
+
+
+
+#=======================哈希集合(hset)===========================
+#hset(windows一个属性,linux可多个)
+#hmset hget hmget hgetal...      </a>

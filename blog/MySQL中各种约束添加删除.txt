@@ -1,0 +1,3 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93781612" target="_blank">
+        CREATE  DATABASE  IF NOT EXISTS 2019dbtest DEFAULT  character SET  utf8 COLLATE  utf8_general_ci;
+ALTER  DATABASE  2019dbtest DEFAULT  character SET ...      </a>

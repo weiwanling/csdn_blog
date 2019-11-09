@@ -1,0 +1,14 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/91356914" target="_blank">
+        mongodb 条件查询
+
+
+$gt $gte $eq $lte $lt
+$and $or $nor
+$in $not $ne
+$all $size
+
+
+
+
+&amp;gt; db.student.find()
+{ "_id" : 1, "name" : {...      </a>

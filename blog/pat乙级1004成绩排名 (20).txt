@@ -1,0 +1,10 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/95517794" target="_blank">
+        #include &amp;lt;bits/stdc++.h&amp;gt;
+using namespace std;
+int main(int argc, char *argv[])
+{
+	struct Student
+	{
+		char name[11];
+		char sno[11];
+		...      </a>

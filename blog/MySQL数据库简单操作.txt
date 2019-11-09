@@ -1,0 +1,7 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93599493" target="_blank">
+        //创建数据库，同时设置字符集和校验规则
+CREATE DATABASE IF NOT EXISTS testdb DEFAULT character SET utf8
+COLLATE utf8_general_ci;
+//删除数据库,不存在会报错
+DROP DATABASE testdb;
+//...      </a>

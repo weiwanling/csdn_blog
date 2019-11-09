@@ -1,0 +1,9 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93639498" target="_blank">
+        度度熊拼三角
+#include&amp;lt;iostream&amp;gt;
+#include&amp;lt;algorithm&amp;gt;
+#include&amp;lt;time.h&amp;gt;
+using namespace std;
+int cmp(int a,int b)
+{
+...      </a>

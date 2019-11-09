@@ -1,0 +1,5 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/94593810" target="_blank">
+        目标函数
+maxf(x)=x∗sin(10∗pi∗x)+2.0,x∈[−1,2]max \quad f(x)=x*sin(10*pi*x)+2.0,\quad  x  \in[-1,2]maxf(x)=x∗sin(10∗pi∗x)+2.0,x∈[−1,2]
+matlab代码
+figure(1); ...      </a>

@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/95462104" target="_blank">
+        CREATE INDEX index_name ON userlogin(name(4));
+
+CREATE INDEX name_info_index ON userlogin(id,name);
+
+ALTER TABLE userlogin ADD UNIQUE INDEX  index_id...      </a>

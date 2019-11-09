@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93862719" target="_blank">
+        #include &amp;lt;stdio.h&amp;gt;
+#include&amp;lt;stdlib.h&amp;gt;
+#include&amp;lt;time.h&amp;gt;
+#include&amp;lt;omp.h&amp;gt;
+#include&amp;lt;iostre...      </a>

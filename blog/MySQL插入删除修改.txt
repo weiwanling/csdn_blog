@@ -1,0 +1,5 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/95461239" target="_blank">
+        INSERT INTO `teacherinfoinfo`(`id`, `t_id`, `name`, `birthday`, `sex`, `wages`)
+VALUES (1002,2017002,'张三',1999-06-17,'男',5000.0);
+
+INSERT INTO `teach...      </a>

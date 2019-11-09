@@ -1,0 +1,14 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90348518" target="_blank">
+        电影实例
+
+
+
+
+
+
+
+
+neo4j&amp;gt; MATCH (tom {name: "Tom Hanks"}) RETURN tom;
+tom
+(:Person {born: 1956, name: "Tom Hanks"})
+neo4j&amp;gt...      </a>

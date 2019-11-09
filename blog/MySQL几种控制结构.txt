@@ -1,0 +1,14 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93782134" target="_blank">
+        -- if 控制结构
+delimiter //
+CREATE PROCEDURE ex_if(IN x int)    
+BEGIN
+IF x=1 THEN 
+SELECT 1;
+ELSEif x=2 THEN 
+SELECT 2;
+ELSE 
+SELECT 3;
+END IF;
+END //
+d...      </a>

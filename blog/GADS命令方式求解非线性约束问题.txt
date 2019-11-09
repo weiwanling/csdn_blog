@@ -1,0 +1,4 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/94543842" target="_blank">
+        求解问题
+max&amp;amp;ThickSpace;2.2∗x1+3∗x2+4.5∗x3+3∗x12+x32;4∗x12+2∗x22+x3−46≤0;x1+x12+x22−5∗x3−34≤0;3∗x1+2∗x12+x2+3∗x3−67≤0;x1+x3∗x3=13;x1≤0;x2≤10;
+max...      </a>

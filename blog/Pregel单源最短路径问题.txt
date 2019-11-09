@@ -1,0 +1,7 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/102690136" target="_blank">
+        Pregel简介
+
+谷歌公司在2003年到2004年公布了GFS、MapReduce和BigTable
+谷歌在后Hadoop时代的新“三驾马车” Caffeine，Dremel和Pregel
+Pregel是一种基于BSP模型实现的并行图处理系统
+为了解决大型图的分布式计算问题，Pregel搭建了一...      </a>

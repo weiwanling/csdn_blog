@@ -1,0 +1,5 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90245986" target="_blank">
+        # Redis configuration file example.
+#
+# Note that in order to read the configuration file, Redis must be
+# started with the file path as first argume...      </a>

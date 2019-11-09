@@ -1,0 +1,9 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/93624226" target="_blank">
+        #!/bin/bash
+echo "please enter a score: "
+read -p "score: " score
+case $score in
+   92) 
+       echo "A";;
+   90)
+     ...      </a>

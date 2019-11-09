@@ -1,0 +1,19 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/101430682" target="_blank">
+        4.1
+
+
+
+
+Hadoop Mapreduce
+Zookeeper
+HDFS
+sqoop
+pig&amp;amp;Hive
+
+
+
+
+利用其来处理HBase中的海量数据，实现高性能计算
+作为协同服务，实现稳定服务和失败恢复
+作为高可靠的底层存储，利用廉价集群提供海量数据存储能力
+Sqoop为HBa...      </a>

@@ -1,0 +1,6 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90139137" target="_blank">
+        #include &amp;lt;iostream&amp;gt;
+#include&amp;lt;string.h&amp;gt;
+#include&amp;lt;math.h&amp;gt;
+#include&amp;lt;stdlib.h&amp;gt;
+using namespace st...      </a>

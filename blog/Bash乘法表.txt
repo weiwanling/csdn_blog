@@ -1,0 +1,14 @@
+<a href="https://blog.csdn.net/qq_42304949/article/details/90204022" target="_blank">
+        乘法表
+
+echo -ne参数 结尾不输出空行，打开字符串转义。
+
+
+#!/bin/bash
+for i in `seq 1 9`
+do                    
+	for j in `seq 1 9`
+	do       
+		if [ $j -le $i ];
+		then
+		...      </a>
